@@ -1,0 +1,68 @@
+D:\Arun_C#\CSharpConcepts\CSharpConcepts_Sol\CSharpConcepts_Sol\bin\Debug\net6.0\appsettings.Development.json
+D:\Arun_C#\CSharpConcepts\CSharpConcepts_Sol\CSharpConcepts_Sol\bin\Debug\net6.0\appsettings.json
+D:\Arun_C#\CSharpConcepts\CSharpConcepts_Sol\CSharpConcepts_Sol\bin\Debug\net6.0\CSharpConcepts_Sol.exe
+D:\Arun_C#\CSharpConcepts\CSharpConcepts_Sol\CSharpConcepts_Sol\bin\Debug\net6.0\CSharpConcepts_Sol.deps.json
+D:\Arun_C#\CSharpConcepts\CSharpConcepts_Sol\CSharpConcepts_Sol\bin\Debug\net6.0\CSharpConcepts_Sol.runtimeconfig.json
+D:\Arun_C#\CSharpConcepts\CSharpConcepts_Sol\CSharpConcepts_Sol\bin\Debug\net6.0\CSharpConcepts_Sol.dll
+D:\Arun_C#\CSharpConcepts\CSharpConcepts_Sol\CSharpConcepts_Sol\bin\Debug\net6.0\CSharpConcepts_Sol.pdb
+D:\Arun_C#\CSharpConcepts\CSharpConcepts_Sol\CSharpConcepts_Sol\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Arun_C#\CSharpConcepts\CSharpConcepts_Sol\CSharpConcepts_Sol\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Arun_C#\CSharpConcepts\CSharpConcepts_Sol\CSharpConcepts_Sol\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Arun_C#\CSharpConcepts\CSharpConcepts_Sol\CSharpConcepts_Sol\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Arun_C#\CSharpConcepts\CSharpConcepts_Sol\CSharpConcepts_Sol\obj\Debug\net6.0\CSharpConcepts_Sol.csproj.AssemblyReference.cache
+D:\Arun_C#\CSharpConcepts\CSharpConcepts_Sol\CSharpConcepts_Sol\obj\Debug\net6.0\CSharpConcepts_Sol.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arun_C#\CSharpConcepts\CSharpConcepts_Sol\CSharpConcepts_Sol\obj\Debug\net6.0\CSharpConcepts_Sol.AssemblyInfoInputs.cache
+D:\Arun_C#\CSharpConcepts\CSharpConcepts_Sol\CSharpConcepts_Sol\obj\Debug\net6.0\CSharpConcepts_Sol.AssemblyInfo.cs
+D:\Arun_C#\CSharpConcepts\CSharpConcepts_Sol\CSharpConcepts_Sol\obj\Debug\net6.0\CSharpConcepts_Sol.csproj.CoreCompileInputs.cache
+D:\Arun_C#\CSharpConcepts\CSharpConcepts_Sol\CSharpConcepts_Sol\obj\Debug\net6.0\CSharpConcepts_Sol.MvcApplicationPartsAssemblyInfo.cache
+D:\Arun_C#\CSharpConcepts\CSharpConcepts_Sol\CSharpConcepts_Sol\obj\Debug\net6.0\staticwebassets\msbuild.CSharpConcepts_Sol.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Arun_C#\CSharpConcepts\CSharpConcepts_Sol\CSharpConcepts_Sol\obj\Debug\net6.0\staticwebassets\msbuild.build.CSharpConcepts_Sol.props
+D:\Arun_C#\CSharpConcepts\CSharpConcepts_Sol\CSharpConcepts_Sol\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CSharpConcepts_Sol.props
+D:\Arun_C#\CSharpConcepts\CSharpConcepts_Sol\CSharpConcepts_Sol\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CSharpConcepts_Sol.props
+D:\Arun_C#\CSharpConcepts\CSharpConcepts_Sol\CSharpConcepts_Sol\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Arun_C#\CSharpConcepts\CSharpConcepts_Sol\CSharpConcepts_Sol\obj\Debug\net6.0\staticwebassets.build.json
+D:\Arun_C#\CSharpConcepts\CSharpConcepts_Sol\CSharpConcepts_Sol\obj\Debug\net6.0\staticwebassets.development.json
+D:\Arun_C#\CSharpConcepts\CSharpConcepts_Sol\CSharpConcepts_Sol\obj\Debug\net6.0\scopedcss\bundle\CSharpConcepts_Sol.styles.css
+D:\Arun_C#\CSharpConcepts\CSharpConcepts_Sol\CSharpConcepts_Sol\obj\Debug\net6.0\CSharpConcepts_Sol.csproj.CopyComplete
+D:\Arun_C#\CSharpConcepts\CSharpConcepts_Sol\CSharpConcepts_Sol\obj\Debug\net6.0\CSharpConcepts_Sol.dll
+D:\Arun_C#\CSharpConcepts\CSharpConcepts_Sol\CSharpConcepts_Sol\obj\Debug\net6.0\refint\CSharpConcepts_Sol.dll
+D:\Arun_C#\CSharpConcepts\CSharpConcepts_Sol\CSharpConcepts_Sol\obj\Debug\net6.0\CSharpConcepts_Sol.pdb
+D:\Arun_C#\CSharpConcepts\CSharpConcepts_Sol\CSharpConcepts_Sol\obj\Debug\net6.0\CSharpConcepts_Sol.genruntimeconfig.cache
+D:\Arun_C#\CSharpConcepts\CSharpConcepts_Sol\CSharpConcepts_Sol\obj\Debug\net6.0\ref\CSharpConcepts_Sol.dll
+D:\Arun_C#\CSharpConcepts\CSharpConcepts_Sol\CSharpConcepts_Sol\bin\Debug\net6.0\ConceptsExample.dll
+D:\Arun_C#\CSharpConcepts\CSharpConcepts_Sol\CSharpConcepts_Sol\bin\Debug\net6.0\ConceptsExample.pdb
+D:\Arun_C#\CSharpConcepts\CSharpConcepts_Sol\CSharpConcepts_Sol\obj\Debug\net6.0\CSharpConcepts_Sol.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ArunANair\OneDrive - CG Infinity\Backup\BAckup18-04\Arun_C#\CSharpConcepts\CSharpConcepts_Sol\CSharpConcepts_Sol\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ArunANair\OneDrive - CG Infinity\Backup\BAckup18-04\Arun_C#\CSharpConcepts\CSharpConcepts_Sol\CSharpConcepts_Sol\bin\Debug\net6.0\appsettings.json
+C:\Users\ArunANair\OneDrive - CG Infinity\Backup\BAckup18-04\Arun_C#\CSharpConcepts\CSharpConcepts_Sol\CSharpConcepts_Sol\bin\Debug\net6.0\CSharpConcepts_Sol.exe
+C:\Users\ArunANair\OneDrive - CG Infinity\Backup\BAckup18-04\Arun_C#\CSharpConcepts\CSharpConcepts_Sol\CSharpConcepts_Sol\bin\Debug\net6.0\CSharpConcepts_Sol.deps.json
+C:\Users\ArunANair\OneDrive - CG Infinity\Backup\BAckup18-04\Arun_C#\CSharpConcepts\CSharpConcepts_Sol\CSharpConcepts_Sol\bin\Debug\net6.0\CSharpConcepts_Sol.runtimeconfig.json
+C:\Users\ArunANair\OneDrive - CG Infinity\Backup\BAckup18-04\Arun_C#\CSharpConcepts\CSharpConcepts_Sol\CSharpConcepts_Sol\bin\Debug\net6.0\CSharpConcepts_Sol.dll
+C:\Users\ArunANair\OneDrive - CG Infinity\Backup\BAckup18-04\Arun_C#\CSharpConcepts\CSharpConcepts_Sol\CSharpConcepts_Sol\bin\Debug\net6.0\CSharpConcepts_Sol.pdb
+C:\Users\ArunANair\OneDrive - CG Infinity\Backup\BAckup18-04\Arun_C#\CSharpConcepts\CSharpConcepts_Sol\CSharpConcepts_Sol\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ArunANair\OneDrive - CG Infinity\Backup\BAckup18-04\Arun_C#\CSharpConcepts\CSharpConcepts_Sol\CSharpConcepts_Sol\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ArunANair\OneDrive - CG Infinity\Backup\BAckup18-04\Arun_C#\CSharpConcepts\CSharpConcepts_Sol\CSharpConcepts_Sol\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ArunANair\OneDrive - CG Infinity\Backup\BAckup18-04\Arun_C#\CSharpConcepts\CSharpConcepts_Sol\CSharpConcepts_Sol\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ArunANair\OneDrive - CG Infinity\Backup\BAckup18-04\Arun_C#\CSharpConcepts\CSharpConcepts_Sol\CSharpConcepts_Sol\bin\Debug\net6.0\ConceptsExample.dll
+C:\Users\ArunANair\OneDrive - CG Infinity\Backup\BAckup18-04\Arun_C#\CSharpConcepts\CSharpConcepts_Sol\CSharpConcepts_Sol\bin\Debug\net6.0\ConceptsExample.pdb
+C:\Users\ArunANair\OneDrive - CG Infinity\Backup\BAckup18-04\Arun_C#\CSharpConcepts\CSharpConcepts_Sol\CSharpConcepts_Sol\obj\Debug\net6.0\CSharpConcepts_Sol.csproj.AssemblyReference.cache
+C:\Users\ArunANair\OneDrive - CG Infinity\Backup\BAckup18-04\Arun_C#\CSharpConcepts\CSharpConcepts_Sol\CSharpConcepts_Sol\obj\Debug\net6.0\CSharpConcepts_Sol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ArunANair\OneDrive - CG Infinity\Backup\BAckup18-04\Arun_C#\CSharpConcepts\CSharpConcepts_Sol\CSharpConcepts_Sol\obj\Debug\net6.0\CSharpConcepts_Sol.AssemblyInfoInputs.cache
+C:\Users\ArunANair\OneDrive - CG Infinity\Backup\BAckup18-04\Arun_C#\CSharpConcepts\CSharpConcepts_Sol\CSharpConcepts_Sol\obj\Debug\net6.0\CSharpConcepts_Sol.AssemblyInfo.cs
+C:\Users\ArunANair\OneDrive - CG Infinity\Backup\BAckup18-04\Arun_C#\CSharpConcepts\CSharpConcepts_Sol\CSharpConcepts_Sol\obj\Debug\net6.0\CSharpConcepts_Sol.csproj.CoreCompileInputs.cache
+C:\Users\ArunANair\OneDrive - CG Infinity\Backup\BAckup18-04\Arun_C#\CSharpConcepts\CSharpConcepts_Sol\CSharpConcepts_Sol\obj\Debug\net6.0\CSharpConcepts_Sol.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ArunANair\OneDrive - CG Infinity\Backup\BAckup18-04\Arun_C#\CSharpConcepts\CSharpConcepts_Sol\CSharpConcepts_Sol\obj\Debug\net6.0\CSharpConcepts_Sol.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ArunANair\OneDrive - CG Infinity\Backup\BAckup18-04\Arun_C#\CSharpConcepts\CSharpConcepts_Sol\CSharpConcepts_Sol\obj\Debug\net6.0\staticwebassets\msbuild.CSharpConcepts_Sol.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ArunANair\OneDrive - CG Infinity\Backup\BAckup18-04\Arun_C#\CSharpConcepts\CSharpConcepts_Sol\CSharpConcepts_Sol\obj\Debug\net6.0\staticwebassets\msbuild.build.CSharpConcepts_Sol.props
+C:\Users\ArunANair\OneDrive - CG Infinity\Backup\BAckup18-04\Arun_C#\CSharpConcepts\CSharpConcepts_Sol\CSharpConcepts_Sol\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CSharpConcepts_Sol.props
+C:\Users\ArunANair\OneDrive - CG Infinity\Backup\BAckup18-04\Arun_C#\CSharpConcepts\CSharpConcepts_Sol\CSharpConcepts_Sol\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CSharpConcepts_Sol.props
+C:\Users\ArunANair\OneDrive - CG Infinity\Backup\BAckup18-04\Arun_C#\CSharpConcepts\CSharpConcepts_Sol\CSharpConcepts_Sol\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ArunANair\OneDrive - CG Infinity\Backup\BAckup18-04\Arun_C#\CSharpConcepts\CSharpConcepts_Sol\CSharpConcepts_Sol\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ArunANair\OneDrive - CG Infinity\Backup\BAckup18-04\Arun_C#\CSharpConcepts\CSharpConcepts_Sol\CSharpConcepts_Sol\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ArunANair\OneDrive - CG Infinity\Backup\BAckup18-04\Arun_C#\CSharpConcepts\CSharpConcepts_Sol\CSharpConcepts_Sol\obj\Debug\net6.0\scopedcss\bundle\CSharpConcepts_Sol.styles.css
+C:\Users\ArunANair\OneDrive - CG Infinity\Backup\BAckup18-04\Arun_C#\CSharpConcepts\CSharpConcepts_Sol\CSharpConcepts_Sol\obj\Debug\net6.0\CSharpConcepts_Sol.csproj.CopyComplete
+C:\Users\ArunANair\OneDrive - CG Infinity\Backup\BAckup18-04\Arun_C#\CSharpConcepts\CSharpConcepts_Sol\CSharpConcepts_Sol\obj\Debug\net6.0\CSharpConcepts_Sol.dll
+C:\Users\ArunANair\OneDrive - CG Infinity\Backup\BAckup18-04\Arun_C#\CSharpConcepts\CSharpConcepts_Sol\CSharpConcepts_Sol\obj\Debug\net6.0\refint\CSharpConcepts_Sol.dll
+C:\Users\ArunANair\OneDrive - CG Infinity\Backup\BAckup18-04\Arun_C#\CSharpConcepts\CSharpConcepts_Sol\CSharpConcepts_Sol\obj\Debug\net6.0\CSharpConcepts_Sol.pdb
+C:\Users\ArunANair\OneDrive - CG Infinity\Backup\BAckup18-04\Arun_C#\CSharpConcepts\CSharpConcepts_Sol\CSharpConcepts_Sol\obj\Debug\net6.0\CSharpConcepts_Sol.genruntimeconfig.cache
+C:\Users\ArunANair\OneDrive - CG Infinity\Backup\BAckup18-04\Arun_C#\CSharpConcepts\CSharpConcepts_Sol\CSharpConcepts_Sol\obj\Debug\net6.0\ref\CSharpConcepts_Sol.dll

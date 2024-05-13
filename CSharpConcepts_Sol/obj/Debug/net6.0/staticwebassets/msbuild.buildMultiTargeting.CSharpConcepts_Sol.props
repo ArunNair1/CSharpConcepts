@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CSharpConcepts_Sol.props" />
+</Project>

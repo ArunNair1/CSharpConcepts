@@ -1,20 +1,21 @@
 using ConceptsExample;
+using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CSharpConcepts_Sol.Controllers
 {
     [ApiController]
     [Route("[controller]")]
-    public class WeatherForecastController : ControllerBase
+    public class SampleController : ControllerBase
     {
         private static readonly string[] Summaries = new[]
         {
         "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
         };
 
-        private readonly ILogger<WeatherForecastController> _logger;
+        private readonly ILogger<SampleController> _logger;
 
-        public WeatherForecastController(ILogger<WeatherForecastController> logger)
+        public SampleController(ILogger<SampleController> logger)
         {
             _logger = logger;
         }
@@ -31,22 +32,28 @@ namespace CSharpConcepts_Sol.Controllers
         //    .ToArray();
         //}
 
-        [HttpGet(Name = "GetWeatherForecastNew")]
-        public int GetA()
+        [HttpGet(Name = "GenericsExample")]
+        public IActionResult GenericsExample()
         {
-            CallingClass callingClass = new CallingClass();
-            var val = callingClass.callMyGenericClass<int>();
             
-            return val;
+            CallingClass callingClass = new CallingClass();
+            var val1 = callingClass.callMyGenericClass<int>(1);
+
+            var val2 = callingClass.callMyGenericClass<string>("test");
+
+            MyModel myModel = new MyModel();
+            myModel.rollNo = 1;
+            myModel.FirstName = "Test";
+            myModel.LastName = "Test2";
+
+            var val3 = callingClass.callMyGenericClass<MyModel>(myModel);
+            object a = new{
+                val1 = 1,
+                val2 = "test",
+                val3 = myModel
+                };
+            return Ok(a);
         }
-        //[HttpGet(Name = "Get_New")]
-        // [HttpGet]
-        //public bool Get_New()
-        //{
-
-        //}
-
-
 
     }
 }

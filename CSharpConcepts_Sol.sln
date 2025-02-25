@@ -7,6 +7,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpConcepts_Sol", "CShar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConceptsExample", "ConceptsExample\ConceptsExample.csproj", "{EACE2322-682D-4C17-A9D7-FD41BC4C3BB9}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5CD045F7-6A37-4BC1-B921-DEEB5E42F665}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+		TextFile1.txt = TextFile1.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

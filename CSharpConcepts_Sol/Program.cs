@@ -23,7 +23,8 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-
+//example of multple custom middlewares, the second middleware uses the http context variable
+//as an input for itself and so on. 
 app.UseMiddleware<CustomMiddleware>();
 app.UseMiddleware<CustomMiddleware2>();
 

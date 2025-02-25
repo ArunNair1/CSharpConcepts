@@ -1,0 +1,24 @@
+Generics
+Delegates\Events
+Async\Await
+Networking
+Multithreading
+Channels
+Security
+Cryptography
+GrpahQL
+Minimal APIs -> FastEndpoint
+Filters and Attributes
+Authentication and Autorization -> Cookies, OAuth, OIDC Middleware, JWT token, Identity Server
+LinQ
+EFCore -> change tracker API, Lazy/Eager loading
+NUnit unit testing
+Logging -> Extnesion.Logging (MS), Serilog, NLog
+Azure Service Bus, SignalR, HttpClient,
+Hangfire Background task
+Redis,MemeoryCache
+Grafana
+Docker
+Azure Pipelines
+
+

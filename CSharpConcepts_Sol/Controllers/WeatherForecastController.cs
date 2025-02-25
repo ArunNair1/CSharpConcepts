@@ -10,7 +10,7 @@ namespace CSharpConcepts_Sol.Controllers
         private static readonly string[] Summaries = new[]
         {
         "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
-    };
+        };
 
         private readonly ILogger<WeatherForecastController> _logger;
 
@@ -36,7 +36,7 @@ namespace CSharpConcepts_Sol.Controllers
         {
             CallingClass callingClass = new CallingClass();
             var val = callingClass.callMyGenericClass<int>();
-
+            
             return val;
         }
         //[HttpGet(Name = "Get_New")]

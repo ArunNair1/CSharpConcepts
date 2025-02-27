@@ -20,7 +20,7 @@ namespace CSharpConcepts_Sol.Controllers
         {
             CallingClass callingClass = new CallingClass();
             // var val = callingClass.callMyGenericClass<int>();
-            var val = callingClass.callMyGenericClass<string>();
+            var val = callingClass.callMyGenericClass<string>("test");
             //var val = callingClass.callMyGenericClass<MyModel>(); //this will fail
 
             return new JsonResult(val);

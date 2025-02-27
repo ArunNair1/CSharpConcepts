@@ -30,11 +30,16 @@ if (app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 //example of multple custom middlewares, the second middleware uses the http context variable
 //as an input for itself and so on. 
-app.UseMiddleware<CustomMiddleware>();
-app.UseMiddleware<CustomMiddleware2>();
+//app.UseMiddleware<CustomMiddleware>();
+//app.UseMiddleware<CustomMiddleware2>();
+//instead of using the above two lines, we can use the one below to add multiple customer middleware 
+//here the UseMyCustomMiddlewares method is a static method which uses IApplication builder to add multiple custom middleware to the flow.
+app.UseMyCustomMiddlewares();
+//example of multple custom middlewares ends
+
 
 app.UseAuthorization();
 
 app.MapControllers();
 
-app.Run();
+app.Run(); // Run method marks the end of middleware flow.

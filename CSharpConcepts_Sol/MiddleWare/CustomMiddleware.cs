@@ -41,4 +41,17 @@
             await _next(context);
         }
     }
+
+    //this is another way to implement multiple customer middlewares, here we are referencing the current IapplicationBuilder and using that to associate multiple custom middlewares
+    // this is just like the lines used in program.cs. Advnatege of this is that it keeps program.cs clean
+    public static class MyMiddlewareExtensions
+    {
+        public static IApplicationBuilder UseMyCustomMiddlewares(this IApplicationBuilder builder) 
+        {
+            var app =  builder.UseMiddleware<CustomMiddleware>();
+             app =  builder.UseMiddleware<CustomMiddleware2>();
+
+            return app;
+        }
+    }
 }

@@ -1,5 +1,5 @@
-Generics
-Middleware
+Generics -> V
+Middleware  -> V
 Delegates\Events
 Async\Await
 Networking
@@ -7,7 +7,7 @@ Multithreading
 Channels
 Security
 Cryptography
-GrpahQL
+GraphQL
 Minimal APIs -> FastEndpoint
 Filters and Attributes
 Authentication and Autorization -> Cookies, OAuth, OIDC Middleware, JWT token, Identity Server

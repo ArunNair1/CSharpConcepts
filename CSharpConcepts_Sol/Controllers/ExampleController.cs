@@ -33,5 +33,30 @@ namespace CSharpConcepts_Sol.Controllers
 
             return new JsonResult(val);
         }
+
+        [HttpGet]
+        public IActionResult AsyncAwaitExample()
+        {
+            ClassForAsyncAwait classForAsyncAwait = new ClassForAsyncAwait();
+            var result = new { res = classForAsyncAwait.useAllMethods() };
+
+
+            return Ok(result);
+        }
+
+        [HttpGet]
+        public IActionResult ThreadClassExample()
+        {
+            ClassForAsyncAwait classForAsyncAwait = new ClassForAsyncAwait();
+            var out1 = "";
+            Task t1 = Task.Run(() => out1 =  classForAsyncAwait.PrintNumbers() );
+            Task t2 = Task.Run(() => out1 += classForAsyncAwait.PrintNumbers() );
+
+            Task.WhenAll(t1, t2).Wait(); //makes sure both t1 and t2 are complete before moving forward
+            var result = new { t1Status = t1.Status, t2Status = t2.Status };
+
+
+            return Ok(result);
+        }
     }
 }

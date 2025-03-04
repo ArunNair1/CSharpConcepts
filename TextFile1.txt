@@ -1,9 +1,9 @@
 Generics -> V
 Middleware  -> V
-Delegates\Events
-Async\Await
+Delegates\Events 
+Async\Await	-> V
 Networking
-Multithreading
+Multithreading ->V
 Channels
 Security
 Cryptography

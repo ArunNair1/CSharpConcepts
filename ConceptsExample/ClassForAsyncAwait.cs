@@ -62,7 +62,7 @@ namespace ConceptsExample
         public async Task<int> method5()
         {
             int sum = 0;
-            await Task.Run(() => {
+            
                 for (int i = 0; i < 100; i++)
                 {
                     sum += 1;
@@ -70,23 +70,20 @@ namespace ConceptsExample
                     Console.WriteLine($"Method5: Sum = {0}", sum);
                     Task.Delay(100).Wait();
                 }
-            });
-
+            
             return sum;
         }
         public async Task<int> method4()
         {
             int sum = 0;
-            await Task.Run(() => {
-                for (int i = 0; i < 100; i++)
+             for (int i = 0; i < 100; i++)
                 {
                     sum += 1;
                     output += "Method 4 executed";
                     Console.WriteLine($"Method4: Sum = {0}", sum);
                     Task.Delay(100).Wait();
                 }
-            });
-
+           
             return sum;
         }
 
